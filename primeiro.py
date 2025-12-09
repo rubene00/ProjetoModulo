@@ -1,3 +1,3 @@
-print("Olá Mundo)
+print("Olá Mundo")
 
 print("Bom dia TSI")
