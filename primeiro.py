@@ -6,3 +6,6 @@ print("Olá Mundo")
 print("Bom dia TSI")
 v = 100
 print (v) # Mostra o valor da variavel v
+
+v = "Agora sou uma string"
+print (v)
