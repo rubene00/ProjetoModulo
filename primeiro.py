@@ -15,3 +15,4 @@ print("Olá", nome)
 
 idade=input("Introduza a idade: ")
 print(nome + " tem ",idade, "anos")
+MIKAEL ESTEVE AQUI.
